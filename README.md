@@ -4,8 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Backend Developer at Fuelin App  
-- 🌱 Currently learning **CI/CD**, **Clean Architecture**, and **Node.js**  
+- 💼 Backend Developer 
 - 🚀 Passionate about backend systems, scalable APIs, and real-world solutions  
 - 💬 Ask me about **Laravel**, **PHP**, or **MySQL**  
 - 🧠 Always exploring new technologies and building useful tools  
