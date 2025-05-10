@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelaziz+Hamed;Backend+Developer+%7C+Laravel+%7C+PHP+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Backend Developer | PHP & Laravel Enthusiast | Clean Code Advocate</h3>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
